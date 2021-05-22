@@ -1,0 +1,4 @@
+How to train and compare Machine Learning models with few lines of code
+        https://towardsdatascience.com/how-to-train-and-compare-machine-learning-models-with-few-lines-of-code-b1d5e1e266dd
+        This link has quick defs of Models and the code to compare multiple models during training
+        
